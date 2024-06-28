@@ -1,6 +1,6 @@
 ## Hi there👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killua0615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+## 🏆Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Killua0615&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 
