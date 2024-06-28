@@ -1,6 +1,7 @@
 ## Hi there👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killua0615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killua0615&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killua0615&layout=compact&height=195)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killua0615&show_icons=true&height=195)
+
 ## 🏆Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Killua0615&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
