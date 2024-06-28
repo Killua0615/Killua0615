@@ -5,7 +5,11 @@
 ## 🏆Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Killua0615&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<style>
+  .github-stats img, .top-langs img {
+    height: 195px;
+  }
+</style>
 
 <!--
 **Killua0615/Killua0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
