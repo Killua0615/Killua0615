@@ -3,6 +3,12 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killua0615&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Killua0615&theme=onedark&show_icons=ture" />
 </p>
+<hr>
+
+[![nateshim's 42 stats](https://badge.mediaplus.ma/levi/nateshim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+<!-- [![nateshim's 42 stats](https://badge.mediaplus.ma/starryblue/nateshim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
+
 
 <hr>
 
