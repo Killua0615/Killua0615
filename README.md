@@ -4,10 +4,10 @@
 <!--  [![nateshim's 42 stats](https://badge.mediaplus.ma/starryblue/nateshim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
 
 <!-- Eren　-->
-[![nateshim's 42 stats](https://badge.mediaplus.ma/levi/nateshim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<!-- [![nateshim's 42 stats](https://badge.mediaplus.ma/levi/nateshim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
 
 <!-- rainbow -->
-<!-- [![nateshim's 42 stats](https://badge.mediaplus.ma/colorfulwaves/nateshim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
+[![nateshim's 42 stats](https://badge.mediaplus.ma/colorfulwaves/nateshim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) 
 
 ## Hi there👋
 <p align="left">
