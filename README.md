@@ -1,5 +1,6 @@
 ## Student of the 42 Network🧑‍🎓
 
+
 <!-- pink -->
 [![nateshim's 42 stats](https://badge.mediaplus.ma/starryblue/nateshim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
